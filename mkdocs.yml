@@ -1,0 +1,253 @@
+site_name: VoiceScriptPlayer Docs
+site_description: Documentation for VoiceScriptPlayer
+site_url: https://VoiceScriptPlayer.github.io/vspdocs/
+
+theme:
+  name: material
+  language: ko
+  custom_dir: overrides          # 👈 overrides 폴더 추가
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: fontawesome/brands/patreon
+
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Creator Guide:
+      - Overview: creator-guide.md
+      - Examples & Advanced:
+          - Start with a Basic Template: creator/example-basic.md
+          - Practice Linking UI and Script: creator/example-ui-script.md
+          - Create Interaction with Conditions and Variables: creator/example-logic.md
+          - Stroke & Device Applications: creator/example-stroke.md
+  - Project:
+      - Create New Project: project/create.md
+      - Load & Save: project/manage.md
+  - Editor:
+      - Overview: editor/overview.md
+      - Timeline: editor/timeline.md
+      - Sound: editor/sound.md
+      - Video: editor/video.md
+      - Live2D: editor/live2d.md
+      - UI: editor/ui.md
+      - Script: editor/script.md
+      - Stroke: editor/stroke.md
+      - Climax: editor/special-event.md
+      - Resource Management: editor/resources.md
+      - Runtime Helper: editor/runtime-helper.md
+      - Project Settings: editor/setting.md
+  - Playback:
+      - Run: playback/run.md
+      - Debug & Log: playback/debug.md
+  - Features: features.md
+  - Device:
+      - TCode: device/tcode.md
+      - Intiface: device/intiface.md
+      - Intiface Advanced: device/intiface_advanced.md
+  - AI:
+      - Overview: ai/ai.md
+      - SpeechRecognition: ai/speechRecognition.md
+      - Whisper: ai/whisper.md
+      - ElevenLabs: ai/elevenlabs.md
+      - COEIROINK: ai/coeiroink.md
+      - Hailuo: ai/hailuo.md
+      - Hailuo Subscription Guide: ai/hailuo-subscription.md
+      - LibreTranslate: ai/libretranslate.md
+      - DeepL: ai/deepl.md
+      - DeepL Subscription Guide: ai/deepl-subscription.md
+  - TroubleShooting:
+      - COEIROINK: troubleshooting/coeiroink.md
+      - Hailuo: troubleshooting/hailuo.md
+  - FAQ: faq.md
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: ko
+          name: 한국어
+          build: true
+          nav_translations:
+            Home: 홈
+            Getting Started: 시작하기
+            Creator Guide: 제작자 가이드
+            Overview: 개요
+            Examples & Advanced: 예제 & 심화
+            Start with a Basic Template: 기본 템플릿으로 시작하기
+            Practice Linking UI and Script: UI와 스크립트 연동 실습
+            Create Interaction with Conditions and Variables: 조건문과 변수로 인터랙션 만들기
+            Stroke & Device Applications: Stroke & Device 응용
+            Project: 프로젝트
+            Create New Project: 새 프로젝트 만들기
+            Load & Save: 불러오기 & 저장
+            Editor: 에디터
+            Timeline: 타임라인
+            Sound: 사운드
+            Video: 비디오
+            Live2D: Live2D
+            UI: UI
+            Script: 스크립트
+            Stroke: 스트로크
+            Climax: 클라이맥스
+            Resource Management: 리소스 관리
+            Runtime Helper: 런타임 도우미
+            Project Settings: 프로젝트 설정
+            Playback: 재생
+            Run: 실행하기
+            Debug & Log: 디버그 & 로그
+            Features: 기능
+            Device: 장치
+            TCode: TCode
+            Intiface: Intiface
+            Intiface Advanced: Intiface 고급
+            AI: AI
+            SpeechRecognition: SpeechRecognition
+            Whisper: Whisper
+            ElevenLabs: ElevenLabs
+            COEIROINK: COEIROINK
+            Hailuo: Hailuo
+            Hailuo Subscription Guide: Hailuo 구독 가이드
+            LibreTranslate: LibreTranslate
+            DeepL: DeepL
+            DeepL Subscription Guide: DeepL 구독 가이드
+            TroubleShooting: 문제 해결
+            FAQ: FAQ
+        - locale: ja
+          name: 日本語
+          build: true
+          nav_translations:
+            Home: ホーム
+            Getting Started: はじめに
+            Creator Guide: クリエイターガイド
+            Overview: 概要
+            Examples & Advanced: 例と応用
+            Start with a Basic Template: 基本テンプレートから始める
+            Practice Linking UI and Script: UIとスクリプトの連携練習
+            Create Interaction with Conditions and Variables: 条件と変数でインタラクションを作る
+            Stroke & Device Applications: ストロークとデバイスの応用
+            Project: プロジェクト
+            Create New Project: 新しいプロジェクトを作成
+            Load & Save: 読み込みと保存
+            Editor: エディター
+            Timeline: タイムライン
+            Sound: サウンド
+            Video: ビデオ
+            Live2D: Live2D
+            UI: UI
+            Script: スクリプト
+            Stroke: ストローク
+            Climax: クライマックス
+            Resource Management: リソース管理
+            Runtime Helper: ランタイムヘルパー
+            Project Settings: プロジェクト設定
+            Playback: 再生
+            Run: 実行
+            Debug & Log: デバッグとログ
+            Features: 機能
+            Device: デバイス
+            TCode: TCode
+            Intiface: Intiface
+            Intiface Advanced: Intiface上級
+            AI: AI
+            SpeechRecognition: 音声認識
+            Whisper: Whisper
+            ElevenLabs: ElevenLabs
+            COEIROINK: COEIROINK
+            Hailuo: Hailuo
+            Hailuo Subscription Guide: Hailuo購読ガイド
+            LibreTranslate: LibreTranslate
+            DeepL: DeepL
+            DeepL Subscription Guide: DeepL購読ガイド
+            TroubleShooting: トラブルシューティング
+            FAQ: よくある質問
+        - locale: zh
+          name: 中文
+          build: true
+          nav_translations:
+              Home: 主页
+              Getting Started: 入门
+              Creator Guide: 创作者指南
+              Overview: 概述
+              Examples & Advanced: 示例与进阶
+              Start with a Basic Template: 从基本模板开始
+              Practice Linking UI and Script: 练习链接UI与脚本
+              Create Interaction with Conditions and Variables: 使用条件和变量创建交互
+              Stroke & Device Applications: 动作与设备应用
+              Project: 项目
+              Create New Project: 创建新项目
+              Load & Save: 加载与保存
+              Editor: 编辑器
+              Timeline: 时间轴
+              Sound: 声音
+              Video: 视频
+              Live2D: Live2D
+              UI: UI
+              Script: 脚本
+              Stroke: 动作
+              Climax: 高潮 (特殊事件)
+              Resource Management: 资源管理
+              Runtime Helper: 运行时助手
+              Project Settings: 项目设置
+              Playback: 播放
+              Run: 运行
+              Debug & Log: 调试与日志
+              Features: 功能
+              Device: 设备
+              TCode: TCode
+              Intiface: Intiface
+              Intiface Advanced: Intiface 进阶
+              AI: AI
+              SpeechRecognition: 语音识别
+              Whisper: Whisper
+              ElevenLabs: ElevenLabs
+              COEIROINK: COEIROINK
+              Hailuo: Hailuo
+              Hailuo Subscription Guide: Hailuo 订阅指南
+              LibreTranslate: LibreTranslate
+              DeepL: DeepL
+              DeepL Subscription Guide: DeepL 订阅指南
+              TroubleShooting: 故障排除
+              FAQ: 常见问题
+
+
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  nav:
+    - icon: fontawesome/brands/patreon
+      link: https://www.patreon.com/VoiceScriptPlayer
+      name: Patreon
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: 日本語
+      link: /vsp-docs/ja/
+      lang: ja
+    - name: 中文
+      link: /vsp-docs/zh/
+      lang: zh
+    - name: 한국어
+      link: /vsp-docs/ko/
+      lang: ko
+  social:
+    - icon: fontawesome/brands/patreon
+      link: https://www.patreon.com/VoiceScriptPlayer
+      name: Patreon
