@@ -721,6 +721,78 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/troubleshooting/hailuo/"/>
     </url>
     <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-full-scene/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-full-scene/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-stroke/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-stroke/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-ui-basics/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-ui-basics/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-ui-bindings/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/advanced-ui-bindings/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-choice/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-choice/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-first-project/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-first-project/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-script-link/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-script-link/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-text-sound/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-text-sound/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-actions/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-actions/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-logic/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-logic/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-sound/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-sound/"/>
+    </url>
+    <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-spine/</loc>
+        <lastmod>2025-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-spine/"/>
+    </url>
+    <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/</loc>
         <lastmod>2025-11-28</lastmod>
         <changefreq>daily</changefreq>
