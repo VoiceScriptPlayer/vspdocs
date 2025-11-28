@@ -1,81 +1,102 @@
-# Creator Guide
-quick tutorials for content creators
+# Creator Guide  
+A simple tutorial for creating your first content
 
-this is a short guide for **creators** who are new to VoiceScriptPlayer.  
-by the end of this document, you should be able to complete a small project that includes audio, subtitles, and interaction
-small project with audio, subtitles, and interaction.
-
----
-
-## 1️⃣ Create the project
-
-- select **"Create new project"** from the top menu
-- enter a title and save location, and the default structure will be automatically generated.  
-- inside the folder, it will contain the `Asset` (resources) and `Script` (events) folders.  
-- 👉 For more information: [Create a project](project/create.md)
+This guide is for **creators** who are new to VoiceScriptPlayer.  
+By following the steps below, you will complete a small project containing  
+audio, subtitles, images, and basic interaction.
 
 ---
 
-## 2️⃣ Add the resource
+## 1️⃣ Create a New Project
 
-- add the **Audio, Image, and Live2D** files to the `Asset` folder.  
-- you can see all your files at a glance in the **Resource Management tab** on the left side of the editor.  
-- this is also where you register variables and translation dictionaries if needed.  
-- 👉 See also: [Manage resources](editor/resources.md)
+- Select **"Create New Project"** from the top menu.  
+- Enter a title and choose a save location to automatically generate the basic structure.  
+- The created directory includes `Assets` (resources) and `Script` (events/logic) folders.
 
----
-
-## 3️⃣ Configuring the timeline
-
-- place the **Sound**, **Subtitle**, and **Video** on the timeline.  
-- drag them with your mouse to adjust their position, and preview them section by section.  
-- provides basic editing tools: zoom, snap align, copy-paste, and more.  
-- 👉 See also: [Timeline] (editor/timeline.md)
+➡️ See: [Create New Project](project/create.md)
 
 ---
 
-## 4️⃣ Adding interactions and events
+## 2️⃣ Add Resources
 
-- On the UI tab, add a button or image control.  
-- each control can have events associated with it, such as **click, compare, change variable**, etc.  
-- use a simple script to specify an action, such as "go to next scene".  
-- 👉 See also: [script](editor/script.md), [UI](editor/ui.md)
+- Add **audio, images, videos, Live2D, Spine resources** into the `Assets` folder.  
+- Manage all files easily in the **Resource Management** tab on the left.  
+- You may also register **variables** or **translation dictionaries** here.
+
+➡️ See: [Resource Management](editor/resources.md)
 
 ---
 
-## 5️⃣ Apply AI features (optional)
+## 3️⃣ Build the Timeline
 
-- You can generate subtitles with Whisper and translate them with DeepL or LibreTranslate.  
-- add TTS voice with hailuo or COEIROINK if needed.  
-- if the translation is awkward, you can correct it word-by-word in the **Translation dictionary**.  
-- 👉 Note: [AI features](ai/whisper.md)
+- Place **sound, subtitles, images, and videos** on the timeline.  
+- Drag to adjust positions, zoom in/out, and preview.  
+- Basic editing tools such as copy/paste and snap alignment are available.
+
+➡️ See: [Timeline](editor/timeline.md)
+
+---
+
+## 4️⃣ Add Interaction & Events
+
+- Add UI elements such as buttons, text, or images from the **UI tab**.  
+- Bind events like click, comparison, or variable changes to each element.  
+- Use simple scripts to perform actions like “go to next scene” or “increase a variable.”
+
+➡️ See:  
+- [UI](editor/ui.md)  
+- [Script](editor/script.md)
+
+---
+
+## 5️⃣ Use AI Features (Optional)
+
+- Generate subtitles using **Whisper (STT)**.  
+- Translate text using **DeepL** or **LibreTranslate**.  
+- Create voice lines with **hailuo**, **COEIROINK**, or **ElevenLabs**.  
+- If translations are awkward, refine them using the **Translation Dictionary**.
+
+➡️ See: [AI Features](ai/whisper.md)
 
 ---
 
 ## 6️⃣ Test & Run
 
-- press the ▶️ button at the top to switch to **Play Mode**.  
-- select a mode: "None / Hand only / Machine recommended / Machine only"
-- if you are asked to use a microphone, confirm the connection through the **Confirmation window**.  
-- if an error occurs, a red message will be displayed,
-  detailed logs can be found in the `Documents/VoiceScriptPlayer/Log` folder.  
-- 👉 Notes: [Run](playback/run.md), [Debug & Log](playback/debug.md)
+- Press the ▶️ icon at the top to enter **Play Mode**.  
+- Choose the appropriate mode (Normal / Hand-only / Device Recommended / Device-only).  
+- If needed, microphone permissions will be requested.  
+- Errors are shown on-screen, and detailed logs are saved in  
+  `Documents/VoiceScriptPlayer/Log`.
+
+➡️ See:  
+- [Run](playback/run.md)  
+- [Debug & Log](playback/debug.md)
 
 ---
 
-## 7️⃣ Complete and deploy
+## 7️⃣ Build & Export
 
-- when you're done testing, you can export your project in `.vspack` format.  
-- users who receive it will be able to run it directly from the run-only player.  
-- 👉 See also: [Project management](project/manage.md)
+- When your project is complete, export it as a `.vsplayer` package.  
+- This package can be played directly in the **Player-only version of VoiceScriptPlayer**.
+
+➡️ See: [Project Management](project/manage.md)
 
 ---
 
-## 🎯 Finalize
+## 🎯 Wrap-up
 
-if you've followed this process,
-you've already reached the point where you can create "one finished piece of content" on your own.
+If you completed all steps above,  
+you now have all the basics needed to create a fully functional piece of content.
 
-The power of VoiceScriptPlayer is that it allows you to **manage everything in one project**.  
-from there, you can learn stroke editing, device control, advanced scripting, and more
-and expand into your own content.
+VoiceScriptPlayer allows you to manage  
+**text, audio, images, UI, interaction, and device control—all in one project**.
+
+Next steps might include exploring:
+
+- Stroke editing  
+- Device control  
+- Advanced scripting  
+- UI ↔ Script interaction  
+- Live2D / Spine animation control
+
+Continue building your own creative workflow!

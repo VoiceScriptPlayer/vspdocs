@@ -19,12 +19,22 @@ nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Creator Guide:
-      - Overview: creator-guide.md
-      - Examples & Advanced:
-          - Start with a Basic Template: creator/example-basic.md
-          - Practice Linking UI and Script: creator/example-ui-script.md
-          - Create Interaction with Conditions and Variables: creator/example-logic.md
-          - Stroke & Device Applications: creator/example-stroke.md
+    - Overview: creator-guide.md
+    - Beginner Tutorials:
+        - Create Your First Script Project: creator/beginner-first-project.md
+        - Basic Script Integration: creator/beginner-script-link.md
+        - Add Text & Sound Blocks: creator/beginner-text-sound.md
+        - Simple Choices & Branching: creator/beginner-choice.md
+    - Intermediate Tutorials:
+        - Images & Spine Integration: creator/intermediate-spine.md
+        - Variables and Conditional Logic: creator/intermediate-logic.md
+        - Parallel & Sequential Actions: creator/intermediate-actions.md
+        - Advanced Sound Control: creator/intermediate-sound.md
+    - Advanced Tutorials:
+        - UI Scripting Basics: creator/advanced-ui-basics.md
+        - UI ↔ Script Interaction: creator/advanced-ui-bindings.md
+        - Stroke & Motion System (Advanced): creator/advanced-stroke.md
+        - Full Interactive Scene Example: creator/advanced-full-scene.md
   - Project:
       - Create New Project: project/create.md
       - Load & Save: project/manage.md
@@ -82,11 +92,22 @@ plugins:
             Getting Started: 시작하기
             Creator Guide: 제작자 가이드
             Overview: 개요
-            Examples & Advanced: 예제 & 심화
-            Start with a Basic Template: 기본 템플릿으로 시작하기
-            Practice Linking UI and Script: UI와 스크립트 연동 실습
-            Create Interaction with Conditions and Variables: 조건문과 변수로 인터랙션 만들기
-            Stroke & Device Applications: Stroke & Device 응용
+            # Beginner
+            Create Your First Script Project: 첫 스크립트 프로젝트 만들기
+            Basic Script Integration: 기본적인 스크립트 연동하기
+            Add Text & Sound Blocks: 텍스트 & 사운드 블록 추가하기
+            Simple Choices & Branching: 간단한 선택지와 분기
+            # Intermediate
+            Images & Spine Integration: 이미지 & 스파인 연동
+            Variables and Conditional Logic: 변수와 조건 논리
+            Parallel & Sequential Actions: 병렬 및 순차 액션
+            Advanced Sound Control: 고급 사운드 제어
+            # Advanced
+            UI Scripting Basics: UI 스크립팅 기초
+            UI ↔ Script Interaction: UI ↔ 스크립트 상호작용
+            Stroke & Motion System (Advanced): 스트로크 & 모션 시스템 (고급)
+            Full Interactive Scene Example: 상호작용 씬 완성 예제
+            # Existing items preserved:
             Project: 프로젝트
             Create New Project: 새 프로젝트 만들기
             Load & Save: 불러오기 & 저장
@@ -130,11 +151,22 @@ plugins:
             Getting Started: はじめに
             Creator Guide: クリエイターガイド
             Overview: 概要
-            Examples & Advanced: 例と応用
-            Start with a Basic Template: 基本テンプレートから始める
-            Practice Linking UI and Script: UIとスクリプトの連携練習
-            Create Interaction with Conditions and Variables: 条件と変数でインタラクションを作る
-            Stroke & Device Applications: ストロークとデバイスの応用
+            # Beginner
+            Create Your First Script Project: 最初のスクリプトプロジェクトを作成
+            Basic Script Integration: 基本的なスクリプト連携
+            Add Text & Sound Blocks: テキスト & サウンドブロックを追加
+            Simple Choices & Branching: シンプルな選択肢と分岐
+            # Intermediate
+            Images & Spine Integration: 画像とSpineの連携
+            Variables and Conditional Logic: 変数と条件ロジック
+            Parallel & Sequential Actions: 並列・順次アクション
+            Advanced Sound Control: 高度なサウンド制御
+            # Advanced
+            UI Scripting Basics: UIスクリプティング基礎
+            UI ↔ Script Interaction: UI ↔ スクリプトの連携
+            Stroke & Motion System (Advanced): ストローク & モーションシステム（上級）
+            Full Interactive Scene Example: インタラクティブシーン完成例
+            # Existing:
             Project: プロジェクト
             Create New Project: 新しいプロジェクトを作成
             Load & Save: 読み込みと保存
@@ -174,50 +206,61 @@ plugins:
           name: 中文
           build: true
           nav_translations:
-              Home: 主页
-              Getting Started: 入门
-              Creator Guide: 创作者指南
-              Overview: 概述
-              Examples & Advanced: 示例与进阶
-              Start with a Basic Template: 从基本模板开始
-              Practice Linking UI and Script: 练习链接UI与脚本
-              Create Interaction with Conditions and Variables: 使用条件和变量创建交互
-              Stroke & Device Applications: 动作与设备应用
-              Project: 项目
-              Create New Project: 创建新项目
-              Load & Save: 加载与保存
-              Editor: 编辑器
-              Timeline: 时间轴
-              Sound: 声音
-              Video: 视频
-              Live2D: Live2D
-              UI: UI
-              Script: 脚本
-              Stroke: 动作
-              Climax: 高潮 (特殊事件)
-              Resource Management: 资源管理
-              Runtime Helper: 运行时助手
-              Project Settings: 项目设置
-              Playback: 播放
-              Run: 运行
-              Debug & Log: 调试与日志
-              Features: 功能
-              Device: 设备
-              TCode: TCode
-              Intiface: Intiface
-              Intiface Advanced: Intiface 进阶
-              AI: AI
-              SpeechRecognition: 语音识别
-              Whisper: Whisper
-              ElevenLabs: ElevenLabs
-              COEIROINK: COEIROINK
-              Hailuo: Hailuo
-              Hailuo Subscription Guide: Hailuo 订阅指南
-              LibreTranslate: LibreTranslate
-              DeepL: DeepL
-              DeepL Subscription Guide: DeepL 订阅指南
-              TroubleShooting: 故障排除
-              FAQ: 常见问题
+            Home: 主页
+            Getting Started: 入门
+            Creator Guide: 创作者指南
+            Overview: 概述
+            # Beginner
+            Create Your First Script Project: 创建你的第一个脚本项目
+            Basic Script Integration: 基础脚本整合
+            Add Text & Sound Blocks: 添加文本与声音模块
+            Simple Choices & Branching: 简单的选项与分支
+            # Intermediate
+            Images & Spine Integration: 图像与Spine整合
+            Variables and Conditional Logic: 变量与条件逻辑
+            Parallel & Sequential Actions: 并行与顺序动作
+            Advanced Sound Control: 高级音频控制
+            # Advanced
+            UI Scripting Basics: UI脚本基础
+            UI ↔ Script Interaction: UI ↔ 脚本交互
+            Stroke & Motion System (Advanced): 动作与运动系统（高级）
+            Full Interactive Scene Example: 互动场景完整示例
+            # Existing:
+            Project: 项目
+            Create New Project: 创建新项目
+            Load & Save: 加载与保存
+            Editor: 编辑器
+            Timeline: 时间轴
+            Sound: 声音
+            Video: 视频
+            Live2D: Live2D
+            UI: UI
+            Script: 脚本
+            Stroke: 动作
+            Climax: 高潮 (特殊事件)
+            Resource Management: 资源管理
+            Runtime Helper: 运行时助手
+            Project Settings: 项目设置
+            Playback: 播放
+            Run: 运行
+            Debug & Log: 调试与日志
+            Features: 功能
+            Device: 设备
+            TCode: TCode
+            Intiface: Intiface
+            Intiface Advanced: Intiface 进阶
+            AI: AI
+            SpeechRecognition: 语音识别
+            Whisper: Whisper
+            ElevenLabs: ElevenLabs
+            COEIROINK: COEIROINK
+            Hailuo: Hailuo
+            Hailuo Subscription Guide: Hailuo 订阅指南
+            LibreTranslate: LibreTranslate
+            DeepL: DeepL
+            DeepL Subscription Guide: DeepL 订阅指南
+            TroubleShooting: 故障排除
+            FAQ: 常见问题
 
 
 
@@ -239,13 +282,13 @@ extra:
       link: /
       lang: en
     - name: 日本語
-      link: /vsp-docs/ja/
+      link: /vspdocs/ja/
       lang: ja
     - name: 中文
-      link: /vsp-docs/zh/
+      link: /vspdocs/zh/
       lang: zh
     - name: 한국어
-      link: /vsp-docs/ko/
+      link: /vspdocs/ko/
       lang: ko
   social:
     - icon: fontawesome/brands/patreon
