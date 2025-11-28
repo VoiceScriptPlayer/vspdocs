@@ -220,6 +220,202 @@
 
 ---
 
+## 💡 Insufficient Balance (HailuoInsufficientBalanceError) {#balance-error}
+
+### Cause
+- Your Hailuo account has insufficient credit or balance to process the request.
+
+### Solution
+1. **Check Account Balance**
+    - Please check your remaining balance on the Hailuo dashboard.
+2. **Recharge Account**
+    - You need to recharge your account to continue using the service.
+
+---
+
+## 💡 Internal Server Error (HailuoInternalError) {#internal-error}
+
+### Cause
+- An unexpected error occurred within the Hailuo server.
+
+### Solution
+1. **Retry Later**
+    - It is likely a temporary issue. Please wait a moment and try again.
+2. **Check Status**
+    - If the issue persists, please check the service announcements.
+
+---
+
+## 💡 Sensitive Input Detected (HailuoSensitiveInputError) {#sensitive-input-error}
+
+### Cause
+- The input text prompt contains sensitive content (politics, violence, adult content, etc.) prohibited by policy.
+
+### Solution
+1. **Modify Prompt**
+    - Please review your input and remove or rephrase any sensitive words or expressions.
+
+---
+
+## 💡 Sensitive Output Detected (HailuoSensitiveOutputError) {#sensitive-output-error}
+
+### Cause
+- The generated result was flagged as sensitive content, and the output was blocked.
+
+### Solution
+1. **Adjust Input**
+    - Please modify your input prompt to guide the generation toward a different result.
+
+---
+
+## 💡 System Error (HailuoSystemError) {#system-error}
+
+### Cause
+- The request failed due to an issue with the database or system components.
+
+### Solution
+1. **Retry**
+    - This may be a temporary issue due to server load. Please try again later.
+
+---
+
+## 💡 Connection Limit Reached (HailuoConnectionLimitError) {#connection-limit-error}
+
+### Cause
+- The server refused processing because there were too many concurrent connection requests.
+
+### Solution
+1. **Adjust Request Frequency**
+    - Reduce the number of concurrent requests or wait briefly before requesting again.
+2. **Contact Support**
+    - If the issue persists, you may need to contact Hailuo support.
+
+---
+
+## 💡 ASR Similarity Check Failed (HailuoASRCheckError) {#asr-check-error}
+
+### Cause
+- The voice in the provided audio file does not match the input text validation content.
+
+### Solution
+1. **Check File and Text**
+    - Ensure that the uploaded audio (`file_id`) and the validation text (`text_validation`) match exactly.
+
+---
+
+## 💡 Clone Prompt Error (HailuoClonePromptError) {#clone-prompt-error}
+
+### Cause
+- There is an issue with the prompt audio or text used for Voice Cloning.
+
+### Solution
+1. **Check Audio Quality**
+    - Ensure the prompt audio is clear and free of background noise.
+2. **Verify Prompt Text**
+    - Make sure the audio content matches the prompt text exactly.
+
+---
+
+## 💡 Invalid Parameters (HailuoInvalidParamsError) {#invalid-params-error}
+
+### Cause
+- The configuration values or JSON structure included in the API request are incorrect.
+
+### Solution
+1. **Review Request Parameters**
+    - Check if the field names and value formats in your data match the API specifications.
+
+---
+
+## 💡 Invalid Voice ID (HailuoInvalidVoiceIDError) {#invalid-voiceid-error}
+
+### Cause
+- The requested Voice ID does not exist or has an incorrect format.
+- It refers to an unusable sample.
+
+### Solution
+1. **Verify ID**
+    - Please double-check the list to ensure the model or Voice ID you are trying to use is correct.
+
+---
+
+## 💡 Duration Error (HailuoDurationError) {#duration-error}
+
+### Cause
+- The length of the uploaded voice file is either too short or too long.
+
+### Solution
+1. **Adjust File Length**
+    - Edit the audio to a suitable length for voice cloning (check recommended duration) and try again.
+
+---
+
+## 💡 Duplicate Voice ID (HailuoDuplicateVoiceIDError) {#duplicate-voiceid-error}
+
+### Cause
+- The Voice ID you are trying to create already exists in the system.
+
+### Solution
+1. **Change ID**
+    - Please try creating it with a different Voice ID.
+
+---
+
+## 💡 Access Denied (HailuoAccessDeniedError) {#access-denied-error}
+
+### Cause
+- You do not have permission to use this Voice ID. (You are not the creator, or it hasn't been shared with you.)
+
+### Solution
+1. **Check Ownership**
+    - Verify if it is a voice you created or a publicly available voice.
+
+---
+
+## 💡 Rate Growth Limit (HailuoRateGrowthError) {#rate-growth-error}
+
+### Cause
+- The request volume increased too rapidly within a short period, and it was blocked for system protection.
+
+### Solution
+1. **Control Request Speed**
+    - Avoid sudden spikes in requests and gradually increase the request frequency.
+
+---
+
+## 💡 Prompt Audio Too Long (HailuoPromptAudioTooLongError) {#prompt-too-long-error}
+
+### Cause
+- The prompt audio used for voice cloning exceeds the allowed length.
+
+### Solution
+1. **Trim Audio**
+    - Please edit the prompt audio file to be **less than 8 seconds** and re-upload.
+
+---
+
+## 💡 Invalid API Key (HailuoInvalidApiKeyError) {#invalid-apikey-error}
+
+### Cause
+- The API Key format is incorrect, or the key is inactive.
+
+### Solution
+1. **Recheck API Key**
+    - Verify the key is correct, and generate a new one if it has expired.
+
+---
+
+## 💡 Usage Limit Exceeded (HailuoUsageLimitExceededError) {#usage-limit-error}
+
+### Cause
+- You have exhausted the allowed API calls or usage quota for the current period (hour/day/month).
+
+### Solution
+1. **Wait for Resource Renewal**
+    - Please wait until the next renewal cycle (typically a 5-hour window).
+
+---
+
 # hailuo-unexpected  
 ## 💡 Unexpected Response (HailuoUnexpectedResponse) {#unexpected}
 

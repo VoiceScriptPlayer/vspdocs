@@ -207,6 +207,202 @@
 
 ---
 
+## 💡 余额不足 (HailuoInsufficientBalanceError) {#balance-error}
+
+### 原因
+- Hailuo 账户的信用点或余额不足，无法处理请求。
+
+### 解决方法
+1. **检查账户余额**
+    - 请在 Hailuo 仪表板中确认剩余余额。
+2. **进行充值**
+    - 若要继续使用服务，需要对账户进行充值。
+
+---
+
+## 💡 内部服务器错误 (HailuoInternalError) {#internal-error}
+
+### 原因
+- Hailuo 服务器内部发生了意外问题。
+
+### 解决方法
+1. **稍后重试**
+    - 很可能是暂时性故障。请稍作等待后再次尝试。
+2. **检查状态**
+    - 如果问题持续存在，请查看服务公告。
+
+---
+
+## 💡 检测到敏感输入 (HailuoSensitiveInputError) {#sensitive-input-error}
+
+### 原因
+- 输入的文本提示词包含政策不允许的敏感内容（政治、暴力、色情等）。
+
+### 解决方法
+1. **修改提示词**
+    - 请检查输入内容，修改或删除敏感词汇及表达。
+
+---
+
+## 💡 检测到敏感输出 (HailuoSensitiveOutputError) {#sensitive-output-error}
+
+### 原因
+- 生成的结果被判定为敏感内容，输出已被拦截。
+
+### 解决方法
+1. **调整输入内容**
+    - 请修改输入提示词，引导生成不同的结果。
+
+---
+
+## 💡 系统错误 (HailuoSystemError) {#system-error}
+
+### 原因
+- 由于数据库或系统组件的问题，请求失败。
+
+### 解决方法
+1. **重试**
+    - 可能是服务器负载等导致的暂时性问题，请稍后重试。
+
+---
+
+## 💡 超过连接限制 (HailuoConnectionLimitError) {#connection-limit-error}
+
+### 原因
+- 同时发起的连接请求过多，服务器拒绝处理。
+
+### 解决方法
+1. **调整请求频率**
+    - 减少并发请求数，或稍作等待后再发起请求。
+2. **联系支持**
+    - 如果问题持续存在，可能需要联系 Hailuo 支持团队。
+
+---
+
+## 💡 ASR 相似度检查失败 (HailuoASRCheckError) {#asr-check-error}
+
+### 原因
+- 提供的音频文件语音与输入的验证文本内容不一致。
+
+### 解决方法
+1. **检查文件和文本**
+    - 请确保上传的音频 (`file_id`) 与验证文本 (`text_validation`) 完全匹配。
+
+---
+
+## 💡 克隆提示词错误 (HailuoClonePromptError) {#clone-prompt-error}
+
+### 原因
+- 用于语音克隆 (Voice Cloning) 的提示音频或文本存在问题。
+
+### 解决方法
+1. **检查音频质量**
+    - 请确认提示音频清晰且无背景噪音。
+2. **核对提示文本**
+    - 请确保音频内容与提示文本完全一致。
+
+---
+
+## 💡 参数错误 (HailuoInvalidParamsError) {#invalid-params-error}
+
+### 原因
+- API 请求中包含的配置值或 JSON 结构不正确。
+
+### 解决方法
+1. **检查请求参数**
+    - 请确认发送数据的字段名和值格式是否符合 API 说明。
+
+---
+
+## 💡 无效的 Voice ID (HailuoInvalidVoiceIDError) {#invalid-voiceid-error}
+
+### 原因
+- 请求的 Voice ID 不存在或格式错误。
+- 引用了不可用的样本。
+
+### 解决方法
+1. **确认 ID**
+    - 请在列表中再次确认您尝试使用的模型或 Voice ID 是否正确。
+
+---
+
+## 💡 时长错误 (HailuoDurationError) {#duration-error}
+
+### 原因
+- 上传的语音文件时长太短或太长。
+
+### 解决方法
+1. **调整文件时长**
+    - 请将音频编辑为适合语音克隆的时长（请确认推荐时长）后重试。
+
+---
+
+## 💡 Voice ID 重复 (HailuoDuplicateVoiceIDError) {#duplicate-voiceid-error}
+
+### 原因
+- 您尝试创建的 Voice ID 已存在于系统中。
+
+### 解决方法
+1. **更改 ID**
+    - 请尝试使用不同的 Voice ID 进行创建。
+
+---
+
+## 💡 拒绝访问 (HailuoAccessDeniedError) {#access-denied-error}
+
+### 原因
+- 您没有权限使用此 Voice ID。（非本人创建或未被共享）
+
+### 解决方法
+1. **确认所有权**
+    - 请确认这是您创建的语音，或者是已公开的语音。
+
+---
+
+## 💡 请求增长率限制 (HailuoRateGrowthError) {#rate-growth-error}
+
+### 原因
+- 短时间内请求量急剧增加，为保护系统已被拦截。
+
+### 解决方法
+1. **控制请求速度**
+    - 请避免突然的大量请求，并逐渐增加请求频率。
+
+---
+
+## 💡 提示音频过长 (HailuoPromptAudioTooLongError) {#prompt-too-long-error}
+
+### 原因
+- 用于语音克隆的提示音频超过了允许的时长。
+
+### 解决方法
+1. **裁剪音频**
+    - 请将提示音频文件编辑至 **8秒以内** 并重新上传。
+
+---
+
+## 💡 无效的 API 密钥 (HailuoInvalidApiKeyError) {#invalid-apikey-error}
+
+### 原因
+- API 密钥格式错误或密钥已失效。
+
+### 解决方法
+1. **重新确认 API 密钥**
+    - 请确认密钥是否正确，如果已过期请重新生成。
+
+---
+
+## 💡 超出使用限制 (HailuoUsageLimitExceededError) {#usage-limit-error}
+
+### 原因
+- 您已耗尽当前周期（小时/日/月）允许的 API 调用次数或使用配额。
+
+### 解决方法
+1. **等待资源更新**
+    - 请等待下一个更新周期（通常为 5 小时窗口）。
+
+---
+
 # hailuo-unexpected  
 ## 💡 意外的响应结构 (HailuoUnexpectedResponse) {#unexpected}
 
