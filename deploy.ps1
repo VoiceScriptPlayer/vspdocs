@@ -12,4 +12,4 @@ git push origin main
 
 python -m mkdocs gh-deploy --force
 
-Write-Host "✅ https://VoiceScriptPlayer.github.io/VoiceScriptPlayerDocs/"
+Write-Host "✅ https://VoiceScriptPlayer.github.io/vspdocs/"
