@@ -21,20 +21,15 @@ nav:
   - Creator Guide:
     - Overview: creator-guide.md
     - Beginner Tutorials:
-        - Create Your First Script Project: creator/beginner-first-project.md
         - Basic Script Integration: creator/beginner-script-link.md
-        - Add Text & Sound Blocks: creator/beginner-text-sound.md
+        - Turn Audio into a Video-like Clip & Add Subtitles: creator/beginner-audio-to-video.md
         - Simple Choices & Branching: creator/beginner-choice.md
+
     - Intermediate Tutorials:
-        - Images & Spine Integration: creator/intermediate-spine.md
-        - Variables and Conditional Logic: creator/intermediate-logic.md
-        - Parallel & Sequential Actions: creator/intermediate-actions.md
+        - Variables & Conditional Logic: creator/intermediate-logic.md
+        - Image Integration: creator/intermediate-image.md
         - Advanced Sound Control: creator/intermediate-sound.md
-    - Advanced Tutorials:
-        - UI Scripting Basics: creator/advanced-ui-basics.md
-        - UI ↔ Script Interaction: creator/advanced-ui-bindings.md
-        - Stroke & Motion System (Advanced): creator/advanced-stroke.md
-        - Full Interactive Scene Example: creator/advanced-full-scene.md
+        - Subtitle Detection: creator/intermediate-subtitle-detect.md
   - Project:
       - Create New Project: project/create.md
       - Load & Save: project/manage.md
@@ -92,21 +87,16 @@ plugins:
             Getting Started: 시작하기
             Creator Guide: 제작자 가이드
             Overview: 개요
-            # Beginner
-            Create Your First Script Project: 첫 스크립트 프로젝트 만들기
+            Beginner Tutorials: 기본 튜토리얼
             Basic Script Integration: 기본적인 스크립트 연동하기
-            Add Text & Sound Blocks: 텍스트 & 사운드 블록 추가하기
+            Turn Audio into a Video-like Clip & Add Subtitles: 음성을 영상처럼 만들고 자막 달기
             Simple Choices & Branching: 간단한 선택지와 분기
-            # Intermediate
-            Images & Spine Integration: 이미지 & 스파인 연동
-            Variables and Conditional Logic: 변수와 조건 논리
-            Parallel & Sequential Actions: 병렬 및 순차 액션
+
+            Intermediate Tutorials: 중급 튜토리얼
+            Variables & Conditional Logic: 변수와 조건 논리
+            Image Integration: 이미지 연동
             Advanced Sound Control: 고급 사운드 제어
-            # Advanced
-            UI Scripting Basics: UI 스크립팅 기초
-            UI ↔ Script Interaction: UI ↔ 스크립트 상호작용
-            Stroke & Motion System (Advanced): 스트로크 & 모션 시스템 (고급)
-            Full Interactive Scene Example: 상호작용 씬 완성 예제
+            Subtitle Detection: 자막 감지
             # Existing items preserved:
             Project: 프로젝트
             Create New Project: 새 프로젝트 만들기
@@ -151,21 +141,16 @@ plugins:
             Getting Started: はじめに
             Creator Guide: クリエイターガイド
             Overview: 概要
-            # Beginner
-            Create Your First Script Project: 最初のスクリプトプロジェクトを作成
-            Basic Script Integration: 基本的なスクリプト連携
-            Add Text & Sound Blocks: テキスト & サウンドブロックを追加
+            Beginner Tutorials: 初級チュートリアル
+            Basic Script Integration: 基本的なスクリプト連動
+            Turn Audio into a Video-like Clip & Add Subtitles: 音声を動画風にして字幕を付ける
             Simple Choices & Branching: シンプルな選択肢と分岐
-            # Intermediate
-            Images & Spine Integration: 画像とSpineの連携
-            Variables and Conditional Logic: 変数と条件ロジック
-            Parallel & Sequential Actions: 並列・順次アクション
+
+            Intermediate Tutorials: 中級チュートリアル
+            Variables & Conditional Logic: 変数と条件ロジック
+            Image Integration: 画像連動
             Advanced Sound Control: 高度なサウンド制御
-            # Advanced
-            UI Scripting Basics: UIスクリプティング基礎
-            UI ↔ Script Interaction: UI ↔ スクリプトの連携
-            Stroke & Motion System (Advanced): ストローク & モーションシステム（上級）
-            Full Interactive Scene Example: インタラクティブシーン完成例
+            Subtitle Detection: 字幕検知
             # Existing:
             Project: プロジェクト
             Create New Project: 新しいプロジェクトを作成
@@ -210,21 +195,16 @@ plugins:
             Getting Started: 入门
             Creator Guide: 创作者指南
             Overview: 概述
-            # Beginner
-            Create Your First Script Project: 创建你的第一个脚本项目
+            Beginner Tutorials: 初级教程
             Basic Script Integration: 基础脚本整合
-            Add Text & Sound Blocks: 添加文本与声音模块
+            Turn Audio into a Video-like Clip & Add Subtitles: 将音频变成类似视频并添加字幕
             Simple Choices & Branching: 简单的选项与分支
-            # Intermediate
-            Images & Spine Integration: 图像与Spine整合
-            Variables and Conditional Logic: 变量与条件逻辑
-            Parallel & Sequential Actions: 并行与顺序动作
-            Advanced Sound Control: 高级音频控制
-            # Advanced
-            UI Scripting Basics: UI脚本基础
-            UI ↔ Script Interaction: UI ↔ 脚本交互
-            Stroke & Motion System (Advanced): 动作与运动系统（高级）
-            Full Interactive Scene Example: 互动场景完整示例
+
+            Intermediate Tutorials: 中级教程
+            Variables & Conditional Logic: 变量与条件逻辑
+            Image Integration: 图像联动
+            Advanced Sound Control: 高级声音控制
+            Subtitle Detection: 字幕检测
             # Existing:
             Project: 项目
             Create New Project: 创建新项目
