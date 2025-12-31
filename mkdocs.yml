@@ -56,6 +56,7 @@ nav:
       - Intiface Advanced: device/intiface_advanced.md
   - AI:
       - Overview: ai/ai.md
+      - Program API Integration Guide: ai/api-guide.md
       - SpeechRecognition: ai/speechRecognition.md
       - Whisper: ai/whisper.md
       - ElevenLabs: ai/elevenlabs.md
@@ -122,6 +123,7 @@ plugins:
             Intiface: Intiface
             Intiface Advanced: Intiface 고급
             AI: AI
+            Program API Integration Guide: 프로그램 API 연동 가이드
             SpeechRecognition: SpeechRecognition
             Whisper: Whisper
             ElevenLabs: ElevenLabs
@@ -176,6 +178,7 @@ plugins:
             Intiface: Intiface
             Intiface Advanced: Intiface上級
             AI: AI
+            Program API Integration Guide: プログラムAPI連携ガイド
             SpeechRecognition: 音声認識
             Whisper: Whisper
             ElevenLabs: ElevenLabs
@@ -230,6 +233,7 @@ plugins:
             Intiface: Intiface
             Intiface Advanced: Intiface 进阶
             AI: AI
+            Program API Integration Guide: 程序 API 集成指南
             SpeechRecognition: 语音识别
             Whisper: Whisper
             ElevenLabs: ElevenLabs
