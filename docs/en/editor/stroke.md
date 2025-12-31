@@ -239,7 +239,116 @@ based on the interaction between **Climax Progress** and **Counter** values — 
 
 ---
 
-## 6. Related Documents
+## 6. Stroke Sound Settings
+
+In the Stroke tab, you can **link sounds to motions (strokes)**.  
+This allows you to play rhythmic sound effects or interactive audio  
+based on the stroke’s position, speed, and range.
+
+![stroke-sound](../images/stroke-sound.png)
+
+---
+
+### 🔊 Sound Pack Templates
+
+| Item | Description |
+|------|-------------|
+| **Load** | Loads a previously saved sound pack template. |
+| **Save Pack** | Saves the current sound combination as a sound pack. |
+
+---
+
+### 📁 Pattern File Management
+
+| Item | Description |
+|------|-------------|
+| **Load Pattern** | Loads a saved sound pattern. |
+| **Save Pattern** | Saves the current sound pattern. |
+
+---
+
+### 📃 Sound List
+
+The left panel displays a **list of sounds** linked to the current stroke.
+
+| Button | Description |
+|-------|-------------|
+| ➕ Add | Adds a new sound. |
+| ✏️ Edit | Edits the selected sound. |
+| 🗑️ Delete | Removes the selected sound. |
+
+---
+
+## 6.1 Sound Properties
+
+When a sound is selected from the list,  
+the **Sound Property** panel appears on the right.
+
+---
+
+### 🎯 Basic Settings
+
+| Item | Description |
+|------|-------------|
+| **Trigger Type** | The condition under which the sound is played (`Continuous`, `AtTop`, `AtBottom`, `MovingUp`, `MovingDown`, etc.) |
+| **Sound Files** | List of sound files to play (multiple files can be specified). |
+| **Volume** | Output volume of the sound. |
+| **Pitch** | Playback pitch of the sound. |
+| **Play Probability** | Probability that the sound will be played (%). |
+| **Cooldown (sec)** | Minimum interval before the sound can be played again. |
+
+> 💡 If multiple sound files are registered,  
+> one is selected randomly during playback.
+
+---
+
+### ⚡ Speed Threshold
+
+Limits sound playback based on the **stroke speed**.
+
+| Item | Description |
+|------|-------------|
+| **Minimum Speed** | Sound is played only when the speed is equal to or greater than this value. |
+| **Maximum Speed** | Sound is not played when the speed exceeds this value. |
+
+> 💡 Useful when you want sounds to play only during fast strokes.
+
+---
+
+### 📏 Range & Distance Settings
+
+Controls sound playback based on **position range** and **minimum movement distance**.
+
+| Item | Description |
+|------|-------------|
+| **Start Position** | Starting range where the sound is valid. |
+| **End Position** | Ending range where the sound is valid. |
+| **Minimum Stroke** | Minimum movement distance required to play the sound. |
+
+> 💡 Helps filter out sounds caused by small or subtle movements.
+
+---
+
+### 🔄 Playback Flow Example
+
+1. A stroke is executed  
+2. The configured **trigger type** is reached  
+3. Speed / position / minimum stroke conditions are checked  
+4. Play probability is evaluated  
+5. If all conditions are met, the sound is played  
+6. Playback is restricted during the cooldown period
+
+---
+
+## 6.2 Usage Tips
+
+- Enhance the **rhythm** of strokes
+- Increase immersion when used with Countdown or Pattern types
+- Express motion intensity u
+
+---
+
+## 7. Related Documents
 
 - [Special Event Tab](special-event.md)  
 - [Sound Tab](sound.md)  
