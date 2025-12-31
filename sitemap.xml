@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/"/>
@@ -11,7 +11,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator-guide/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator-guide/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator-guide/"/>
@@ -20,7 +20,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/faq/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/faq/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/faq/"/>
@@ -29,7 +29,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/features/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/features/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/features/"/>
@@ -38,7 +38,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/getting-started/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/getting-started/"/>
@@ -47,7 +47,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/ai/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/ai/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/ai/"/>
@@ -55,8 +55,17 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/ai/"/>
     </url>
     <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/api-guide/</loc>
+        <lastmod>2025-12-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/api-guide/"/>
+    </url>
+    <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/coeiroink/"/>
@@ -65,7 +74,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl-subscription/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/deepl-subscription/"/>
@@ -74,7 +83,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/deepl/"/>
@@ -83,7 +92,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/elevenlabs/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/elevenlabs/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/elevenlabs/"/>
@@ -92,7 +101,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo-subscription/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/hailuo-subscription/"/>
@@ -101,7 +110,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/hailuo/"/>
@@ -110,7 +119,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/libretranslate/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/libretranslate/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/libretranslate/"/>
@@ -119,7 +128,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/speechRecognition/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/speechRecognition/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/speechRecognition/"/>
@@ -128,7 +137,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ai/whisper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/whisper/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/whisper/"/>
@@ -137,7 +146,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-audio-to-video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-audio-to-video/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-audio-to-video/"/>
@@ -146,7 +155,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-choice/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-choice/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-choice/"/>
@@ -155,7 +164,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-script-link/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-script-link/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-script-link/"/>
@@ -164,7 +173,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-image/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-image/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-image/"/>
@@ -173,7 +182,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-logic/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-logic/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-logic/"/>
@@ -182,7 +191,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-sound/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-sound/"/>
@@ -191,7 +200,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-subtitle-detect/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-subtitle-detect/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-subtitle-detect/"/>
@@ -200,7 +209,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/device/intiface/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/device/intiface/"/>
@@ -209,7 +218,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/device/intiface_advanced/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface_advanced/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/device/intiface_advanced/"/>
@@ -218,7 +227,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/device/tcode/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/tcode/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/device/tcode/"/>
@@ -227,7 +236,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/live2d/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/live2d/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/live2d/"/>
@@ -236,7 +245,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/overview/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/overview/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/overview/"/>
@@ -245,7 +254,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/resources/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/resources/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/resources/"/>
@@ -254,7 +263,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/runtime-helper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/runtime-helper/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/runtime-helper/"/>
@@ -263,7 +272,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/script/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/script/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/script/"/>
@@ -272,7 +281,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/setting/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/setting/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/setting/"/>
@@ -281,7 +290,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/sound/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/sound/"/>
@@ -290,7 +299,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/special-event/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/special-event/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/special-event/"/>
@@ -299,7 +308,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/stroke/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/stroke/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/stroke/"/>
@@ -308,7 +317,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/timeline/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/timeline/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/timeline/"/>
@@ -317,7 +326,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/ui/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/ui/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/ui/"/>
@@ -326,7 +335,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/editor/video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/video/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/video/"/>
@@ -335,7 +344,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/playback/debug/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/debug/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/playback/debug/"/>
@@ -344,7 +353,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/playback/run/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/run/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/playback/run/"/>
@@ -353,7 +362,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/project/create/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/create/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/project/create/"/>
@@ -362,7 +371,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/project/manage/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/manage/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/project/manage/"/>
@@ -371,7 +380,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/troubleshooting/coeiroink/"/>
@@ -380,7 +389,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/troubleshooting/hailuo/"/>
@@ -389,7 +398,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/"/>
@@ -398,7 +407,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator-guide/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator-guide/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator-guide/"/>
@@ -407,7 +416,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/faq/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/faq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/faq/"/>
@@ -416,7 +425,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/features/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/features/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/features/"/>
@@ -425,7 +434,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/getting-started/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/getting-started/"/>
@@ -434,7 +443,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/ai/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/ai/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/ai/"/>
@@ -442,8 +451,17 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/ai/"/>
     </url>
     <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/api-guide/</loc>
+        <lastmod>2025-12-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/api-guide/"/>
+    </url>
+    <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/coeiroink/"/>
@@ -452,7 +470,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/deepl-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/deepl-subscription/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl-subscription/"/>
@@ -461,7 +479,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/deepl/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/deepl/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl/"/>
@@ -470,7 +488,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/elevenlabs/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/elevenlabs/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/elevenlabs/"/>
@@ -479,7 +497,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/hailuo-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/hailuo-subscription/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo-subscription/"/>
@@ -488,7 +506,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo/"/>
@@ -497,7 +515,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/libretranslate/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/libretranslate/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/libretranslate/"/>
@@ -506,7 +524,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/speechRecognition/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/speechRecognition/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/speechRecognition/"/>
@@ -515,7 +533,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/whisper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/whisper/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/whisper/"/>
@@ -524,7 +542,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-audio-to-video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-audio-to-video/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-audio-to-video/"/>
@@ -533,7 +551,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-choice/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-choice/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-choice/"/>
@@ -542,7 +560,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-script-link/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/beginner-script-link/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-script-link/"/>
@@ -551,7 +569,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-image/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-image/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-image/"/>
@@ -560,7 +578,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-logic/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-logic/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-logic/"/>
@@ -569,7 +587,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-sound/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-sound/"/>
@@ -578,7 +596,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-subtitle-detect/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/creator/intermediate-subtitle-detect/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-subtitle-detect/"/>
@@ -587,7 +605,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/device/intiface/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/device/intiface/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface/"/>
@@ -596,7 +614,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/device/intiface_advanced/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/device/intiface_advanced/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface_advanced/"/>
@@ -605,7 +623,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/device/tcode/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/device/tcode/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/tcode/"/>
@@ -614,7 +632,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/live2d/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/live2d/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/live2d/"/>
@@ -623,7 +641,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/overview/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/overview/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/overview/"/>
@@ -632,7 +650,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/resources/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/resources/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/resources/"/>
@@ -641,7 +659,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/runtime-helper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/runtime-helper/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/runtime-helper/"/>
@@ -650,7 +668,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/script/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/script/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/script/"/>
@@ -659,7 +677,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/setting/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/setting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/setting/"/>
@@ -668,7 +686,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/sound/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/sound/"/>
@@ -677,7 +695,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/special-event/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/special-event/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/special-event/"/>
@@ -686,7 +704,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/stroke/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/stroke/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/stroke/"/>
@@ -695,7 +713,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/timeline/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/timeline/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/timeline/"/>
@@ -704,7 +722,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/ui/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/ui/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/ui/"/>
@@ -713,7 +731,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/editor/video/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/video/"/>
@@ -722,7 +740,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/playback/debug/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/playback/debug/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/debug/"/>
@@ -731,7 +749,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/playback/run/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/playback/run/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/run/"/>
@@ -740,7 +758,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/project/create/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/project/create/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/create/"/>
@@ -749,7 +767,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/project/manage/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/project/manage/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/manage/"/>
@@ -758,7 +776,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/troubleshooting/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/troubleshooting/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/coeiroink/"/>
@@ -767,7 +785,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ko/troubleshooting/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/troubleshooting/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/hailuo/"/>
@@ -776,7 +794,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/"/>
@@ -785,7 +803,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator-guide/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator-guide/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator-guide/"/>
@@ -794,7 +812,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/faq/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/faq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/faq/"/>
@@ -803,7 +821,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/features/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/features/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/features/"/>
@@ -812,7 +830,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/getting-started/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/getting-started/"/>
@@ -821,7 +839,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/ai/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/ai/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/ai/"/>
@@ -829,8 +847,17 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/ai/"/>
     </url>
     <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/api-guide/</loc>
+        <lastmod>2025-12-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/api-guide/"/>
+    </url>
+    <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/coeiroink/"/>
@@ -839,7 +866,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/deepl-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/deepl-subscription/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl-subscription/"/>
@@ -848,7 +875,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/deepl/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/deepl/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl/"/>
@@ -857,7 +884,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/elevenlabs/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/elevenlabs/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/elevenlabs/"/>
@@ -866,7 +893,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/hailuo-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/hailuo-subscription/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo-subscription/"/>
@@ -875,7 +902,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo/"/>
@@ -884,7 +911,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/libretranslate/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/libretranslate/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/libretranslate/"/>
@@ -893,7 +920,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/speechRecognition/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/speechRecognition/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/speechRecognition/"/>
@@ -902,7 +929,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/whisper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/whisper/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/whisper/"/>
@@ -911,7 +938,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-audio-to-video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-audio-to-video/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-audio-to-video/"/>
@@ -920,7 +947,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-choice/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-choice/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-choice/"/>
@@ -929,7 +956,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-script-link/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/beginner-script-link/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-script-link/"/>
@@ -938,7 +965,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-image/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-image/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-image/"/>
@@ -947,7 +974,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-logic/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-logic/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-logic/"/>
@@ -956,7 +983,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-sound/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-sound/"/>
@@ -965,7 +992,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-subtitle-detect/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/creator/intermediate-subtitle-detect/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-subtitle-detect/"/>
@@ -974,7 +1001,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/device/intiface/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/device/intiface/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface/"/>
@@ -983,7 +1010,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/device/intiface_advanced/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/device/intiface_advanced/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface_advanced/"/>
@@ -992,7 +1019,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/device/tcode/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/device/tcode/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/tcode/"/>
@@ -1001,7 +1028,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/live2d/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/live2d/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/live2d/"/>
@@ -1010,7 +1037,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/overview/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/overview/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/overview/"/>
@@ -1019,7 +1046,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/resources/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/resources/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/resources/"/>
@@ -1028,7 +1055,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/runtime-helper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/runtime-helper/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/runtime-helper/"/>
@@ -1037,7 +1064,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/script/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/script/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/script/"/>
@@ -1046,7 +1073,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/setting/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/setting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/setting/"/>
@@ -1055,7 +1082,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/sound/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/sound/"/>
@@ -1064,7 +1091,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/special-event/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/special-event/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/special-event/"/>
@@ -1073,7 +1100,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/stroke/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/stroke/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/stroke/"/>
@@ -1082,7 +1109,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/timeline/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/timeline/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/timeline/"/>
@@ -1091,7 +1118,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/ui/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/ui/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/ui/"/>
@@ -1100,7 +1127,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/editor/video/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/video/"/>
@@ -1109,7 +1136,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/playback/debug/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/playback/debug/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/debug/"/>
@@ -1118,7 +1145,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/playback/run/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/playback/run/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/run/"/>
@@ -1127,7 +1154,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/project/create/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/project/create/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/create/"/>
@@ -1136,7 +1163,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/project/manage/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/project/manage/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/manage/"/>
@@ -1145,7 +1172,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/troubleshooting/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/troubleshooting/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/coeiroink/"/>
@@ -1154,7 +1181,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/ja/troubleshooting/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/troubleshooting/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/hailuo/"/>
@@ -1163,7 +1190,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/"/>
@@ -1172,7 +1199,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator-guide/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator-guide/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator-guide/"/>
@@ -1181,7 +1208,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/faq/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/faq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/faq/"/>
@@ -1190,7 +1217,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/features/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/features/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/features/"/>
@@ -1199,7 +1226,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/getting-started/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/getting-started/"/>
@@ -1208,7 +1235,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/ai/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/ai/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/ai/"/>
@@ -1216,8 +1243,17 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/ai/"/>
     </url>
     <url>
+        <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/api-guide/</loc>
+        <lastmod>2025-12-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://VoiceScriptPlayer.github.io/vspdocs/ja/ai/api-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://VoiceScriptPlayer.github.io/vspdocs/ko/ai/api-guide/"/>
+    </url>
+    <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/coeiroink/"/>
@@ -1226,7 +1262,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/deepl-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/deepl-subscription/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl-subscription/"/>
@@ -1235,7 +1271,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/deepl/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/deepl/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/deepl/"/>
@@ -1244,7 +1280,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/elevenlabs/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/elevenlabs/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/elevenlabs/"/>
@@ -1253,7 +1289,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/hailuo-subscription/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/hailuo-subscription/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo-subscription/"/>
@@ -1262,7 +1298,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/hailuo/"/>
@@ -1271,7 +1307,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/libretranslate/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/libretranslate/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/libretranslate/"/>
@@ -1280,7 +1316,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/speechRecognition/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/speechRecognition/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/speechRecognition/"/>
@@ -1289,7 +1325,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/whisper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/ai/whisper/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/ai/whisper/"/>
@@ -1298,7 +1334,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/beginner-audio-to-video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/beginner-audio-to-video/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-audio-to-video/"/>
@@ -1307,7 +1343,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/beginner-choice/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/beginner-choice/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-choice/"/>
@@ -1316,7 +1352,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/beginner-script-link/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/beginner-script-link/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/beginner-script-link/"/>
@@ -1325,7 +1361,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-image/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-image/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-image/"/>
@@ -1334,7 +1370,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-logic/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-logic/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-logic/"/>
@@ -1343,7 +1379,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-sound/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-sound/"/>
@@ -1352,7 +1388,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-subtitle-detect/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/creator/intermediate-subtitle-detect/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/creator/intermediate-subtitle-detect/"/>
@@ -1361,7 +1397,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/device/intiface/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/device/intiface/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface/"/>
@@ -1370,7 +1406,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/device/intiface_advanced/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/device/intiface_advanced/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/intiface_advanced/"/>
@@ -1379,7 +1415,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/device/tcode/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/device/tcode/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/device/tcode/"/>
@@ -1388,7 +1424,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/live2d/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/live2d/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/live2d/"/>
@@ -1397,7 +1433,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/overview/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/overview/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/overview/"/>
@@ -1406,7 +1442,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/resources/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/resources/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/resources/"/>
@@ -1415,7 +1451,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/runtime-helper/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/runtime-helper/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/runtime-helper/"/>
@@ -1424,7 +1460,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/script/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/script/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/script/"/>
@@ -1433,7 +1469,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/setting/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/setting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/setting/"/>
@@ -1442,7 +1478,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/sound/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/sound/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/sound/"/>
@@ -1451,7 +1487,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/special-event/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/special-event/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/special-event/"/>
@@ -1460,7 +1496,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/stroke/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/stroke/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/stroke/"/>
@@ -1469,7 +1505,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/timeline/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/timeline/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/timeline/"/>
@@ -1478,7 +1514,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/ui/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/ui/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/ui/"/>
@@ -1487,7 +1523,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/video/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/editor/video/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/editor/video/"/>
@@ -1496,7 +1532,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/playback/debug/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/playback/debug/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/debug/"/>
@@ -1505,7 +1541,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/playback/run/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/playback/run/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/playback/run/"/>
@@ -1514,7 +1550,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/project/create/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/project/create/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/create/"/>
@@ -1523,7 +1559,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/project/manage/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/project/manage/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/project/manage/"/>
@@ -1532,7 +1568,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/troubleshooting/coeiroink/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/troubleshooting/coeiroink/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/coeiroink/"/>
@@ -1541,7 +1577,7 @@
     </url>
     <url>
         <loc>https://VoiceScriptPlayer.github.io/vspdocs/zh/troubleshooting/hailuo/</loc>
-        <lastmod>2025-11-30</lastmod>
+        <lastmod>2025-12-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://VoiceScriptPlayer.github.io/vspdocs/zh/troubleshooting/hailuo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://VoiceScriptPlayer.github.io/vspdocs/troubleshooting/hailuo/"/>
