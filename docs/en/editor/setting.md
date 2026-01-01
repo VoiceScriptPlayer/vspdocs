@@ -30,7 +30,7 @@ These are key options that should be reviewed during project setup:
 | Field | Description |
 |-------|-------------|
 | **Project Title** | Enter the project name. This will also be used for file and folder names. |
-| **Product Code (DLsite Code)** | Enter the DLsite product ID (e.g., `RJ01430276`).<br>Click the **🔍 button** to automatically fetch related information such as title, description, and tags. |
+| **Product Code (DLsite Code)** | Enter the DLsite product ID (e.g., `RJ01430276`).<br>Click the **📥 (Download) button** on the left to automatically fetch and fill in the work details (title, description, tags, etc.). |
 | **Auto Translation (Translate)** | Automatically translate the fetched DLsite data (title, description, tags) into your preferred language.<br>The translation language is determined by the **STT Engine Language Setting** below. |
 | **Template Selection** | Define the basic project structure.<br>Options: **Empty Project**, **Mini Game**, or **Multi-Track Project**. |
 | **Play Mode** | Choose the default play style for the project:<br>① **No Preference** ② **Hands Only** ③ **Device Recommended** ④ **Device Only** |
