@@ -41,7 +41,7 @@ VoiceScriptPlayer는 사용자가 개별 API 키를 발급받는 번거로움 �
 * **스위치 [끔]**: 사용자가 하단에 직접 입력한 개인 API Key를 사용합니다.
 * **스위치 [켬]**: 패트리온 연동을 통해 제공되는 통합 서버 API를 사용합니다. (권장)
 
-![setup-api](../images/patreon-useapi.png.png)
+![setup-api](../images/patreon-useapi.png)
 
 ---
 
