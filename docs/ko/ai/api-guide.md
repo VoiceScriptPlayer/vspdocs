@@ -21,7 +21,7 @@ VoiceScriptPlayer는 사용자가 개별 API 키를 발급받는 번거로움 �
 2. VoiceScriptPlayer가 요청하는 권한(계정 정보 및 후원 상태 확인)을 확인한 후 **"허용"** 버튼을 클릭합니다.
 
 | 1. 로그인 페이지 | 2. Patreon 로그인 | 3. 권한 승인 페이지 |
-| :---: | :---: | | :---: |
+| :---: | :---: | :---: |
 | ![patreon-login](../images/patreon-step2-login.png) | ![patreon-authorize](../images/patreon-step3-authorize.png) | ![patreon-authorize](../images/patreon-step3-1-authorize.png) |
 
 ### **단계 3: 연동 완료 확인**
