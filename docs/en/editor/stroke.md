@@ -42,6 +42,7 @@ Here, you can directly adjust the movement, speed, and range for each axis.
 |--------|-------------|
 | **Name** | Specifies the name of the current stroke pattern. |
 | **Type** | Selects how the stroke will play. |
+| **Run while stopped** | Determines whether to continue running the pattern even when the main timeline or playback is stopped. |
 | **Fixed Time** | Keeps the total duration of the pattern constant. |
 | **Speed Control** | Determines whether playback speed follows variable input. |
 | **Range Control** | Determines whether amplitude follows variable input. |
@@ -156,7 +157,7 @@ When placed on the timeline or triggered via script, it plays automatically for 
 |----------|-------------|
 | **Automatic Playback** | Plays automatically when added to the timeline. |
 | **Speed / Range Control** | Adjustable through “Speed Control” and “Range Control” options. |
-| **Loop Playback** | Can be set to repeat in a script. |
+| **Loop Playback** | Loops repeat automatically on the timeline. When executed via script, it runs for a specified number of times. |
 
 ---
 
